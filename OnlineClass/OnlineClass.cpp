@@ -57,3 +57,7 @@ int main() {
 			cin >> jejari;
 			cout << "Luas Lingkaran = " << Luaslingkaran(jejari);
 			break;
+
+		case 4:
+
+			break;
