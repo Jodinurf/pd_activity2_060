@@ -33,4 +33,6 @@ int main() {
 
 		cout << "Masukan pilihan : ";
 		cin >> pilihan;
-	}
+
+		switch (pilihan)
+		{
