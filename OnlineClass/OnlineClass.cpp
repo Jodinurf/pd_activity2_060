@@ -14,3 +14,9 @@ float Luaslingkaran(float r) {
 }
 
 
+int main() {
+
+	float panjang, lebar, tinggi, jejari, alas;
+	int pilihan;
+
+
