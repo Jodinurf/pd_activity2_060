@@ -61,3 +61,6 @@ int main() {
 		case 4:
 
 			break;
+		default:
+			cout << "Pilihan anda salah!";
+			break;
