@@ -64,3 +64,8 @@ int main() {
 		default:
 			cout << "Pilihan anda salah!";
 			break;
+		}
+	} while (pilihan != 4);
+
+
+}
